@@ -1,6 +1,6 @@
 # HashProof: Securing Evidence, Ensuring Trust
 
-![image](https://github.com/user-attachments/assets/f98c3f1d-fa37-42d0-ad7d-0e49c32f4cd9)
+![image](https://github.com/user-attachments/assets/d612a8f6-4a3f-4466-8063-7fae0187ef84)
 
 [View the Presentation](https://www.canva.com/design/DAGhM5uoeNI/HVRXZP3YjsLvcwY9BG3Ovg/view?utm_content=DAGhM5uoeNI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h36a29b97b1)
 
